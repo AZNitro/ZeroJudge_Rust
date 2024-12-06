@@ -4,5 +4,5 @@ fn main() {
     io::stdin()
     .read_line(&mut words)
     .expect("Error");
-    println!("Hello, {}",words);
+    println!("hello, {}",words);
 }
